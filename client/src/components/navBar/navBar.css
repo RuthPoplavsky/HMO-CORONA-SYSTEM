@@ -1,0 +1,29 @@
+nav {
+    background-color: #004d99; /* Deep blue background */
+    padding: 10px 20px;
+    margin-bottom: 4vh;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  nav li {
+    float: left;
+  }
+  
+  nav li a {
+    display: block;
+    color: white; /* White text color */
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  nav li a:hover {
+    background-color: #003366; /* Slightly darker blue on hover */
+  }
+  

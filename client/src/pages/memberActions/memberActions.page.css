@@ -1,0 +1,50 @@
+
+.member-actions-container {
+    padding: 20px;
+}
+
+.member-actions-container h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.member-actions-container input[type="text"] {
+    width: 25vw;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+.member-actions-container input[type="text"]::placeholder {
+    color: #999;
+}
+.member-actions-container .error-message {
+    color: #ff0000;
+    font-size: small;
+    margin-top: 5px;
+}
+.member-actions-container button {
+    padding: 10px 20px;
+    width: 25vw; 
+    height: 12vh; 
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.member-actions-container button:hover {
+    background-color: #0056b3;
+}
+
+.member-actions-container .action-button {
+    margin-top: 10px;
+}
