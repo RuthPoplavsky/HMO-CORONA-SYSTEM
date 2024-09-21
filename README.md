@@ -1,2 +1,2 @@
 # HMO-CORONA-SYSTEM
-a system to manage corona data and analyzing.
+a system to manage coronavirus data and analyzing.
